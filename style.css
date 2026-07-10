@@ -295,3 +295,36 @@ display: block;
     color:#1f2937;
     border:2px solid #1f2937;
 }
+
+/* Footer styling */
+footer {
+    background-color: #0D1B2A;
+    color: #ffff;
+    padding: 50px 80px;
+}
+.footer-top {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 15px;
+}
+
+.social-icons {
+    display: flex;
+    gap: 10px;
+}
+.social-icons a {
+    color: #2563EB;
+    font-size: 20px;
+    transition: 0.3s;
+    transition: 0.3s;
+}
+.social-icons a:hover {
+    color: #5376c2;
+}
+hr {
+    border: none;
+    height: 1px;
+    background: #E5E7EB;
+    margin:25px 0;
+}
