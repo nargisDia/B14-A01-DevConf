@@ -322,7 +322,7 @@ footer {
 .social-icons a:hover {
     color: #5376c2;
 }
-hr {
+footer hr {
     border: none;
     height: 1px;
     background: #E5E7EB;
@@ -512,4 +512,5 @@ hr {
 .passport-footer p{
     color:#b9b9b9;
     line-height:1.7;
+
 }
